@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Favorite\bin\Debug\Favorite.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Favorite\bin\Debug\Favorite.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Favorite\bin\Debug\Favorite.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Favorite\obj\Debug\Favorite.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Favorite\obj\Debug\Favorite.pdb
