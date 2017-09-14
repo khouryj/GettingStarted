@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\bin\Debug\PrimeSolver.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\bin\Debug\PrimeSolver.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\bin\Debug\PrimeSolver.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\obj\Debug\PrimeSolver.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\obj\Debug\PrimeSolver.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\PrimeSolver\PrimeSolver\obj\Debug\PrimeSolver.pdb
